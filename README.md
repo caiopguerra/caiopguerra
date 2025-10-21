@@ -29,6 +29,5 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caio-guerra-9b5bb5245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
 ![Snake animation](https://github.com/caiopguerra/caiopguerra/blob/output/dark.svg)
-</div>
+
