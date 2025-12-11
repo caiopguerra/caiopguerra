@@ -1,8 +1,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+Caio+Guerra;Hi+there+I'm+Caio+Guerra;Hola+soy+Caio+Guerra)](https://git.io/typing-svg)
 
 
-- 🔭 Atualmente escrevo códigos em Java
-- 🌱 Atualmente estou estudando o Java para melhorar cada dia mais;
+- 🔭 Atualmente escrevo códigos em diversas linguagens
+- 🌱 Atualmente estou estudando para melhorar cada dia mais;
 - 😄 Pronouns: ele/dele;
 
 <div style="display: inline_block"><br>
